@@ -1,15 +1,15 @@
 # Computer Vision
-opencv-python-headless==4.10.0.84
-ultralytics==8.3.12
+opencv-python-headless
+ultralytics
 
 # OCR (Text Reading)
-paddlepaddle==2.6.0
-paddleocr==2.7.3
+paddlepaddle
+paddleocr>=2.7.3
 
 # Backend API
-fastapi==0.115.0
-uvicorn==0.31.0
-python-multipart==0.0.12
+fastapi
+uvicorn
+python-multipart
 
 # Utilities
 numpy
